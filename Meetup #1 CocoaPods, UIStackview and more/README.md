@@ -1,2 +1,10 @@
-# Meetups
-All info about meetups organised by Apple Developers Club, Ahmedabad
+# Meetup #1 CocoaPods, UIStackview and more
+
+1. UIStackview, Autolayout best practices and Xcode Constraints 
+By Rahul Chandnani (Mobilefirst)
+
+2. Cocoapods, Create your own pod, Swift pod in Objective-C project & Objective-C pod in Swift project 
+By Arpan Desai (Mobilefirst)
+
+Where : Lets Nurture 
+When : 30th April, 2016
